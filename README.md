@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👋 Hi, I’m @tavspedro
-🌱 I’m currently learning Go and Ruby
-📫 How to reach me: pedrotavaresbol20@gmail.com
+- 👋 Hi, I’m @tavspedro
+- 🌱 I’m currently learning Go and Ruby
+- 📫 How to reach me: pedrotavaresbol20@gmail.com
 
 <!--
 **Pedro-Silva29/Pedro-Silva29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
