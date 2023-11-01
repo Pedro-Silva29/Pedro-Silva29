@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### --Natural de Recife - PE 🌉
+### Natural de Recife - PE 🌉
 
 <!--
 **Pedro-Silva29/Pedro-Silva29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
