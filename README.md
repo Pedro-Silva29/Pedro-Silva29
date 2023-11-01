@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @tavspedro
-- 🌱 I’m currently learning Go and Ruby
+- 🌱 I’m currently learning Python and Ruby.
 - 📫 How to reach me: pedrotavaresbol20@gmail.com
 
 <!--
